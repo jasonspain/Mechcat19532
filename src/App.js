@@ -115,6 +115,7 @@ export default function website() {
             <div className="slide-in">
               <div className="title-team"><h1>Our Team</h1></div>
               <img className="squiggle" src={squiggle} alt="squiggle"></img>
+              <br></br>
               <img className="arrow" src={arrow} alt="arrow"></img>
             </div>
           </div>
@@ -128,17 +129,17 @@ export default function website() {
           </div>
         </div>
         <div id="contact">
+        <div className="catsteps">
+              <img src={paw1} alt="paw"></img>
+              <img src={paw1} alt="paw"></img>
+              <img src={paw1} alt="paw"></img>
+              <img src={paw1} alt="paw"></img>
+              <img src={paw1} alt="paw"></img>
+            </div>
           <div className="contact-box">
             <div className="slide-in">
               <div className="title-contact"><h1>Contact Us</h1></div>
               <img className="squiggle" src={squiggle} alt="squiggle"></img>
-            </div>
-            <div className="catsteps">
-              <img src={paw1} alt="paw"></img>
-              <img src={paw1} alt="paw"></img>
-              <img src={paw1} alt="paw"></img>
-              <img src={paw1} alt="paw"></img>
-              <img src={paw1} alt="paw"></img>
             </div>
             <div className="map-wrapper">
               <iframe className="googlemap"
