@@ -305,8 +305,8 @@ a {
 
 /*reusable animations*/
 .slide-in {
-  animation-play-state: paused;
   animation: slideIn 5s;
+  animation: none;
 }
 
 @keyframes slideIn {
@@ -320,8 +320,8 @@ a {
 }
 
 .fade-in {
-  animation-play-state: paused;
   animation: fadeIn 5s;
+  animation: none;
 }
 
 @keyframes fadeIn {
@@ -393,40 +393,35 @@ a {
 .catsteps img:nth-child(1) {
   margin-bottom: 30px;
   margin-right: 30px;
-  animation-play-state: paused;
   animation: walkIn 5s;
-  
+  animation: none;
 }
 
 .catsteps img:nth-child(2) {
   margin-bottom: -32.5px;
   margin-right: 30px;
-  animation-play-state: paused;
   animation: walkIn 5s;
-  
+  animation: none;
 }
 
 .catsteps img:nth-child(3) {
   margin-bottom: -95px;
-  animation-play-state: paused;
   animation: walkIn 5s;
-  
+  animation: none;
 }
 
 .catsteps img:nth-child(4) {
   margin-bottom: 40px;
   margin-right: 30px;
-  animation-play-state: paused;
   animation: walkIn 5s;
-  
+  animation: none;
 }
 
 .catsteps img:nth-child(5) {
   margin-bottom: -32.5px;
   margin-right: 30px;
-  animation-play-state: paused;
   animation: walkIn 5s;
-  
+  animation: none;
 }
 
 @keyframes walkIn {
@@ -461,9 +456,8 @@ a {
   height: 35vw;
   width: auto;
   z-index: 1;
-  animation-play-state: paused;
   animation: slideLeft 5s;
-  
+  animation: none;
 }
 
 .about-box {
@@ -473,9 +467,8 @@ a {
   margin-right: auto;
   background-color: white;
   border-radius: 70px;
-  animation-play-state: paused;
   animation: slideIn 5s;
-  
+  animation: none;
 }
 
 .title-about {
@@ -523,8 +516,8 @@ a {
   position: absolute;
   background-image: url(img/robot-img.png);
   background-repeat:no-repeat;
-  animation-play-state: paused;
   animation: slideRight 5s;
+  animation: none;
   z-index: 1;
 }
 
@@ -542,9 +535,8 @@ a {
   margin-right: auto;
   background-color: white;
   border-radius: 70px;
-  animation-play-state: paused;
   animation: slideIn 5s;
-  
+  animation: none;
 }
 
 .title-robot {
@@ -578,9 +570,8 @@ a {
   margin-right: auto;
   background-color: white;
   border-radius: 70px;
-  animation-play-state: paused;
   animation: slideIn 5s;
-  
+  animation: none;
 }
 
 .team-img {
@@ -594,9 +585,8 @@ a {
   background-repeat: no-repeat;
   background-size: contain;
   z-index: 1;
-  animation-play-state: paused;
   animation: fadeIn 5s;
-  
+  animation: none;
 }
 
 .title-team {
@@ -635,9 +625,8 @@ a {
   margin-right: auto;
   background-color: white;
   border-radius: 70px;
-  animation-play-state: paused;
   animation: slideIn 5s;
-  
+  animation: none;
 }
 .title-sponsor {
   font-size: 27px;
@@ -662,9 +651,8 @@ a {
   background-image: url(img/Tom-Brothers.png);
   filter: grayscale(100%);
   background-repeat:no-repeat;
-  animation-play-state: paused;
   animation: fadeIn 5s;
-  
+  animation: none;
 }
 .bethune{
   background-size:200px;
@@ -676,9 +664,8 @@ a {
   background-image: url(img/bethune.png);
   filter: grayscale(100%);
   background-repeat:no-repeat;
-  animation-play-state: paused;
   animation: fadeIn 5s;
-  
+  animation: none;
 }
 
 
@@ -699,9 +686,8 @@ a {
   margin-right: auto;
   background-color: white;
   border-radius: 70px;
-  animation-play-state: paused;
   animation: slideIn 5s;
-  
+  animation: none;
 }
 
 .title-contact {
@@ -746,9 +732,8 @@ a {
 .icon-box p {
   font-size: 25px;
   color: black;
-  animation-play-state: paused;
   animation: slideLeft2 5s;
-  
+  animation: none;
 }
 
 .iframe {
