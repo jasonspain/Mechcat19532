@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/Mechcat19532/static/css/main.905c1adb.css",
-    "main.js": "/Mechcat19532/static/js/main.f82e1d31.js",
+    "main.css": "/Mechcat19532/static/css/main.25ad00e5.css",
+    "main.js": "/Mechcat19532/static/js/main.148f5cd2.js",
     "static/js/453.bb828c5d.chunk.js": "/Mechcat19532/static/js/453.bb828c5d.chunk.js",
     "static/media/coralreef.png": "/Mechcat19532/static/media/coralreef.038a1ceab83cb8edd526.png",
     "static/media/team.png": "/Mechcat19532/static/media/team.c54f2d1b486104a6525b.png",
-    "static/media/robot-img.png": "/Mechcat19532/static/media/robot-img.7e7d3345e25652099194.png",
+    "static/media/Doraemon.png": "/Mechcat19532/static/media/Doraemon.1f2a67249f0fead8dc79.png",
+    "static/media/robot-img.png": "/Mechcat19532/static/media/robot-img.ec86f02a644b3f33e5cf.png",
     "static/media/logo.png": "/Mechcat19532/static/media/logo.a5c782965cdd2a3763f8.png",
     "static/media/insta-icon.png": "/Mechcat19532/static/media/insta-icon.fbf2eb82f7c6e96234f1.png",
     "static/media/email-icon.png": "/Mechcat19532/static/media/email-icon.f68d0234b4904d161a7c.png",
@@ -23,12 +24,12 @@
     "static/media/fishiewaves.png": "/Mechcat19532/static/media/fishiewaves.ab7bd9a3aab07fec3cf2.png",
     "static/media/arrow.png": "/Mechcat19532/static/media/arrow.7c6b1e986e23f25fabf6.png",
     "index.html": "/Mechcat19532/index.html",
-    "main.905c1adb.css.map": "/Mechcat19532/static/css/main.905c1adb.css.map",
-    "main.f82e1d31.js.map": "/Mechcat19532/static/js/main.f82e1d31.js.map",
+    "main.25ad00e5.css.map": "/Mechcat19532/static/css/main.25ad00e5.css.map",
+    "main.148f5cd2.js.map": "/Mechcat19532/static/js/main.148f5cd2.js.map",
     "453.bb828c5d.chunk.js.map": "/Mechcat19532/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.905c1adb.css",
-    "static/js/main.f82e1d31.js"
+    "static/css/main.25ad00e5.css",
+    "static/js/main.148f5cd2.js"
   ]
 }
