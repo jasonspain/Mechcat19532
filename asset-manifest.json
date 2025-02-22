@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mechcat19532/static/css/main.4e5f8817.css",
+    "main.css": "/Mechcat19532/static/css/main.ab35e0ba.css",
     "main.js": "/Mechcat19532/static/js/main.c9b47998.js",
     "static/js/453.bb828c5d.chunk.js": "/Mechcat19532/static/js/453.bb828c5d.chunk.js",
     "static/media/coralreef.png": "/Mechcat19532/static/media/coralreef.038a1ceab83cb8edd526.png",
@@ -26,12 +26,12 @@
     "static/media/arrow.png": "/Mechcat19532/static/media/arrow.7c6b1e986e23f25fabf6.png",
     "static/media/SmartPrint.png": "/Mechcat19532/static/media/SmartPrint.9f30330077bbaaf15f43.png",
     "index.html": "/Mechcat19532/index.html",
-    "main.4e5f8817.css.map": "/Mechcat19532/static/css/main.4e5f8817.css.map",
+    "main.ab35e0ba.css.map": "/Mechcat19532/static/css/main.ab35e0ba.css.map",
     "main.c9b47998.js.map": "/Mechcat19532/static/js/main.c9b47998.js.map",
     "453.bb828c5d.chunk.js.map": "/Mechcat19532/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e5f8817.css",
+    "static/css/main.ab35e0ba.css",
     "static/js/main.c9b47998.js"
   ]
 }
