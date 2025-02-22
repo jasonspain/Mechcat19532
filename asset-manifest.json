@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mechcat19532/static/css/main.bd4b9cb7.css",
-    "main.js": "/Mechcat19532/static/js/main.268de081.js",
+    "main.css": "/Mechcat19532/static/css/main.0f973273.css",
+    "main.js": "/Mechcat19532/static/js/main.c9b47998.js",
     "static/js/453.bb828c5d.chunk.js": "/Mechcat19532/static/js/453.bb828c5d.chunk.js",
     "static/media/coralreef.png": "/Mechcat19532/static/media/coralreef.038a1ceab83cb8edd526.png",
     "static/media/team.png": "/Mechcat19532/static/media/team.c54f2d1b486104a6525b.png",
@@ -26,12 +26,12 @@
     "static/media/arrow.png": "/Mechcat19532/static/media/arrow.7c6b1e986e23f25fabf6.png",
     "static/media/SmartPrint.png": "/Mechcat19532/static/media/SmartPrint.9f30330077bbaaf15f43.png",
     "index.html": "/Mechcat19532/index.html",
-    "main.bd4b9cb7.css.map": "/Mechcat19532/static/css/main.bd4b9cb7.css.map",
-    "main.268de081.js.map": "/Mechcat19532/static/js/main.268de081.js.map",
+    "main.0f973273.css.map": "/Mechcat19532/static/css/main.0f973273.css.map",
+    "main.c9b47998.js.map": "/Mechcat19532/static/js/main.c9b47998.js.map",
     "453.bb828c5d.chunk.js.map": "/Mechcat19532/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd4b9cb7.css",
-    "static/js/main.268de081.js"
+    "static/css/main.0f973273.css",
+    "static/js/main.c9b47998.js"
   ]
 }
